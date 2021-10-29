@@ -1,0 +1,22 @@
+@import '../../styles/variables.scss';
+
+.nav-header-link  {
+    text-decoration: none;
+    color: $main-color;
+    background-color: $secondary-color;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.nav-header-link:hover{
+    color: $main-color;
+}
+
+.nav-header-link:active{
+    color: $main-color;
+}
+
+.nav-header-link:focus{
+    color: $main-color;
+}

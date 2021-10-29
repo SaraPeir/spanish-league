@@ -1,0 +1,192 @@
+{
+  "hash": "baac86ccfa98a341d785",
+  "publicPath": "/",
+  "outputPath": "C:\\Users\\Sara\\Desktop\\code-test-frontend-lambda\\assets",
+  "assetsByChunkName": {
+    "main": [
+      "main.4a6bb689020b4bad9c2b.js"
+    ],
+    "manifest": [
+      "manifest.9542b4743660dd3f3380.js"
+    ],
+    "async_home": [
+      "async_home.2eb90f2c6bb97c35fb57.js"
+    ],
+    "async_teams": [
+      "async_teams.1245c18770660b1ae134.js"
+    ],
+    "async_team": [
+      "async_team.592fb20b5ccec690e1c8.js"
+    ],
+    "async_header": [
+      "async_header.b4fe9505a9012df5609c.js"
+    ],
+    "node_vendors": [
+      "node_vendors.69c3ef335ebc4f1346cc.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "assets by status",
+      "cached": true,
+      "filteredChildren": 7,
+      "size": 1527139
+    }
+  ],
+  "namedChunkGroups": {
+    "main": {
+      "name": "main",
+      "chunks": [
+        "manifest",
+        "node_vendors",
+        "main"
+      ],
+      "assets": [
+        {
+          "name": "manifest.9542b4743660dd3f3380.js"
+        },
+        {
+          "name": "node_vendors.69c3ef335ebc4f1346cc.js"
+        },
+        {
+          "name": "main.4a6bb689020b4bad9c2b.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 3,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "async_home": {
+      "name": "async_home",
+      "chunks": [
+        "node_vendors",
+        "async_home"
+      ],
+      "assets": [
+        {
+          "name": "node_vendors.69c3ef335ebc4f1346cc.js"
+        },
+        {
+          "name": "async_home.2eb90f2c6bb97c35fb57.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "async_teams": {
+      "name": "async_teams",
+      "chunks": [
+        "node_vendors",
+        "async_teams"
+      ],
+      "assets": [
+        {
+          "name": "node_vendors.69c3ef335ebc4f1346cc.js"
+        },
+        {
+          "name": "async_teams.1245c18770660b1ae134.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "async_team": {
+      "name": "async_team",
+      "chunks": [
+        "node_vendors",
+        "async_team"
+      ],
+      "assets": [
+        {
+          "name": "node_vendors.69c3ef335ebc4f1346cc.js"
+        },
+        {
+          "name": "async_team.592fb20b5ccec690e1c8.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    },
+    "async_header": {
+      "name": "async_header",
+      "chunks": [
+        "node_vendors",
+        "async_header"
+      ],
+      "assets": [
+        {
+          "name": "node_vendors.69c3ef335ebc4f1346cc.js"
+        },
+        {
+          "name": "async_header.b4fe9505a9012df5609c.js"
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": null,
+      "filteredAuxiliaryAssets": 2,
+      "auxiliaryAssetsSize": null,
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "main",
+      "files": [
+        "main.4a6bb689020b4bad9c2b.js"
+      ]
+    },
+    {
+      "id": "manifest",
+      "files": [
+        "manifest.9542b4743660dd3f3380.js"
+      ]
+    },
+    {
+      "id": "async_home",
+      "files": [
+        "async_home.2eb90f2c6bb97c35fb57.js"
+      ]
+    },
+    {
+      "id": "async_teams",
+      "files": [
+        "async_teams.1245c18770660b1ae134.js"
+      ]
+    },
+    {
+      "id": "async_team",
+      "files": [
+        "async_team.592fb20b5ccec690e1c8.js"
+      ]
+    },
+    {
+      "id": "async_header",
+      "files": [
+        "async_header.b4fe9505a9012df5609c.js"
+      ]
+    },
+    {
+      "id": "node_vendors",
+      "files": [
+        "node_vendors.69c3ef335ebc4f1346cc.js"
+      ]
+    }
+  ]
+}
